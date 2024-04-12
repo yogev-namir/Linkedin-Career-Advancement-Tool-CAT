@@ -46,7 +46,7 @@ CAT has demonstrated the potential to enhance career development significantly. 
 
 ## Usage
 
-This project is designed to work with two datasets that are not publicly available. These datasets are provided by the course instructors and must be placed in the same directory as the project files for the code to function correctly.
+This project is designed to work with linkedin profiles dataset that is not publicly available. We provided a snippet to this dataset in the "Other Resources" section below.
 
 ### Running the Project 🏃
 
