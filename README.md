@@ -5,6 +5,9 @@ CAT is an innovative feature within LinkedIn, designed to increase job marketabi
 
 ### Data Collection and Integration <!-- h3 -->
 Data sources include LinkedIn's profile dataset complemented by web scraping for real-time job market demands and LinkedIn Learning courses. We strategically focus on the data science sector, integrating a neural network to predict relevant skills, which achieved over 90% accuracy on our datasets.
+Top frequent skill count in the kaggle job postings dataset:
+![image](https://github.com/yogev-namir/Linkedin-Career-Advancement-Tool-CAT/assets/81235287/93d66362-50cb-43fe-849a-1a3c72eae86f)
+
 
 ### AI Methodologies <!-- h4 -->
 The project leverages several AI techniques:
