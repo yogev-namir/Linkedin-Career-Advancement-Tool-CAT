@@ -41,3 +41,59 @@ Challenges such as unavailable skills data, initial KNN implementation hurdles, 
 
 ## Conclusion <!-- Back to h2 for section consistency -->
 CAT has demonstrated the potential to enhance career development significantly. Despite limitations, the tool has successfully provided personalized guidance and recommendations, establishing itself as a valuable asset in the job-seeking process.
+
+
+
+## Usage
+
+This project is designed to work with two datasets that are not publicly available. These datasets are provided by the course instructors and must be placed in the same directory as the project files for the code to function correctly.
+
+### Running the Project
+
+To run the project, you will need Jupyter Notebook to open the `.ipynb` file. Follow these steps:
+
+1. Ensure that you have Jupyter Notebook installed. If not, install it using `pip`:
+
+    ```bash
+    pip install notebook
+    ```
+
+2. Clone this repository to your local machine:
+
+    ```bash
+    git clone <repository-url>
+    ```
+
+3. Navigate to the cloned repository's directory.
+
+4. Place the provided datasets into this directory.
+
+5. Open the Jupyter Notebook:
+
+    ```bash
+    jupyter notebook
+    ```
+
+6. In the Jupyter interface, open `Project Python Notebook.ipynb`.
+
+7. Run the cells in sequence to execute the analysis.
+
+### Other Resources
+
+- View the project report: `Project_Report.pdf`
+- Check the web scraping script: `courses_scrapping.py` for details on how LinkedIn Learning courses data is collected.
+
+## Contributing
+
+We welcome contributions and suggestions for improvements! If you have ideas on how to enhance the Career Advancement Tool (CAT), please feel free to:
+
+- Fork the repository.
+- Create a new branch (`git checkout -b feature-branch`).
+- Make your changes.
+- Commit your changes (`git commit -am 'Add some feature'`).
+- Push to the branch (`git push origin feature-branch`).
+- Create a new Pull Request.
+
+Your contributions will help make our project even better. If you have any questions or need further assistance, please open an issue in the repository.
+
+
