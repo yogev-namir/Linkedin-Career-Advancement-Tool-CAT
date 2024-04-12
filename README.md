@@ -1,6 +1,6 @@
-# Career Advancement Tool (CAT) <!-- Largest title: h1 -->
+# Career Advancement Tool (CAT) 🚀<!-- Largest title: h1 -->
   BECAUSE OF A PROBLEM WITH VIEWING THE NOTEBOOK IN A NORMAL FORMAT, WE ARE KINDLY ASKING YOU TO DONWLOAD THE HTML OR IPYNB FILE IN ORDER TO VIEW OUR WORK.
-## Introduction <!-- Second largest title: h2 -->
+## Introduction 📝<!-- Second largest title: h2 -->
 CAT is an innovative feature within LinkedIn, designed to increase job marketability by aligning user resumes with current industry standards and suggesting skill enhancements through Machine Learning and Large Language Models (LLM). The tool focuses on bridging the gap between current professional skills and the ever-evolving job market requirements.
 
 ## Data Collection and Integration <!-- h3 -->
@@ -13,7 +13,7 @@ Feature distribution from profiles dataset:
 ![image](https://github.com/yogev-namir/Linkedin-Career-Advancement-Tool-CAT/assets/81235287/2638f24e-827f-43e2-8fac-8b33fd57874a)
 
 
-## AI Methodologies <!-- h4 -->
+## AI Methodologies 💡<!-- h4 -->
 The project leverages several AI techniques:
 
 DistilBert for tokenizing job titles into vectors.
@@ -48,7 +48,7 @@ CAT has demonstrated the potential to enhance career development significantly. 
 
 This project is designed to work with two datasets that are not publicly available. These datasets are provided by the course instructors and must be placed in the same directory as the project files for the code to function correctly.
 
-### Running the Project
+### Running the Project 🏃
 
 To run the project, you will need Jupyter Notebook to open the `.ipynb` file. Follow these steps:
 
@@ -61,7 +61,7 @@ To run the project, you will need Jupyter Notebook to open the `.ipynb` file. Fo
 2. Clone this repository to your local machine:
 
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/yogev-namir/Linkedin-Career-Advancement-Tool-CAT)
     ```
 
 3. Navigate to the cloned repository's directory.
@@ -82,6 +82,8 @@ To run the project, you will need Jupyter Notebook to open the `.ipynb` file. Fo
 
 - View the project report: `Project_Report.pdf`
 - Check the web scraping script: `courses_scrapping.py` for details on how LinkedIn Learning courses data is collected.
+- Kaggle's job postings dataset - https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills?select=job_skills.csv
+- Linkedin profiles snippet dataset - https://www.kaggle.com/datasets/manishkumar7432698/linkedinuserprofiles
 
 ## Contributing
 
@@ -96,4 +98,6 @@ We welcome contributions and suggestions for improvements! If you have ideas on 
 
 Your contributions will help make our project even better. If you have any questions or need further assistance, please open an issue in the repository.
 
-
+## Contact 📬
+yonatansabag@gmail.com
+yogevnamir97@gmail.com
