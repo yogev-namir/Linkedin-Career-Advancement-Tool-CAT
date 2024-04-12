@@ -1,4 +1,5 @@
 # Career Advancement Tool (CAT) <!-- Largest title: h1 -->
+  BECAUSE OF A PROBLEM WITH VIEWING THE NOTEBOOK IN A NORMAL FORMAT, WE ARE KINDLY ASKING YOU TO DONWLOAD THE HTML OR IPYNB FILE IN ORDER TO VIEW OUR WORK.
 ## Introduction <!-- Second largest title: h2 -->
 CAT is an innovative feature within LinkedIn, designed to increase job marketability by aligning user resumes with current industry standards and suggesting skill enhancements through Machine Learning and Large Language Models (LLM). The tool focuses on bridging the gap between current professional skills and the ever-evolving job market requirements.
 
