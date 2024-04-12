@@ -61,7 +61,7 @@ To run the project, you will need Jupyter Notebook to open the `.ipynb` file. Fo
 2. Clone this repository to your local machine:
 
     ```bash
-    git clone [<repository-url>](https://github.com/yogev-namir/Linkedin-Career-Advancement-Tool-CAT)
+    git clone https://github.com/yogev-namir/Linkedin-Career-Advancement-Tool-CAT
     ```
 
 3. Navigate to the cloned repository's directory.
