@@ -66,7 +66,7 @@ To run the project, you will need Jupyter Notebook to open the `.ipynb` file. Fo
 
 3. Navigate to the cloned repository's directory.
 
-4. Place the provided datasets into this directory.
+4. Place the provided datasets into this directory (profiles dataset, kaggle's job postings and scraped courses dataset)
 
 5. Open the Jupyter Notebook:
 
