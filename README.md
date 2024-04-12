@@ -82,6 +82,7 @@ To run the project, you will need Jupyter Notebook to open the `.ipynb` file. Fo
 
 - View the project report: `Project_Report.pdf`
 - Check the web scraping script: `courses_scrapping.py` for details on how LinkedIn Learning courses data is collected.
+- Check the job postings parsing script : 'job_postings_parsing' for details on how job postings are parsed and ordered.
 - Kaggle's job postings dataset - https://www.kaggle.com/datasets/asaniczka/data-science-job-postings-and-skills?select=job_skills.csv
 - Linkedin profiles snippet dataset - https://www.kaggle.com/datasets/manishkumar7432698/linkedinuserprofiles
 
