@@ -33,6 +33,8 @@ The neural network shows strong predictive performance. The combination of BRP L
 
 Neural Net training process:
 ![image](https://github.com/yogev-namir/Linkedin-Career-Advancement-Tool-CAT/assets/81235287/4aa553e7-6543-416a-aa42-c42796073fc0)
+Skills sets distribution (of the scrapped data and the predicted data):
+![image](https://github.com/yogev-namir/Linkedin-Career-Advancement-Tool-CAT/assets/81235287/1924ada4-d183-4f7b-af3d-1524f2d82a87)
 
 ### Limitations and Reflections <!-- Smallest title: h6 -->
 Challenges such as unavailable skills data, initial KNN implementation hurdles, and computational performance were addressed through innovative solutions, including a neural network for skill prediction and a refined two-step matching process.
