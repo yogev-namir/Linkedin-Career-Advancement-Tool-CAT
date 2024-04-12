@@ -47,6 +47,7 @@ CAT has demonstrated the potential to enhance career development significantly. 
 ## Usage
 
 This project is designed to work with linkedin profiles dataset that is not publicly available. We provided a snippet to this dataset in the "Other Resources" section below.
+Remember to replace all the file paths in the notebook to your local file paths.
 
 ### Running the Project 🏃
 
